@@ -11,7 +11,7 @@ function App() {
       <main>
         <section>
           <h2>About Me</h2>
-          <p>Hi, I'm [Your Name], a web developer passionate about building web applications.</p>
+          <p>Hi, my name is Amin, a web developer passionate about building web applications.</p>
         </section>
         <section>
           <h2>Projects</h2>
