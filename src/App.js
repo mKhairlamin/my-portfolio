@@ -18,6 +18,7 @@ function App() {
           <ul>
             <li>Project 1: A cool project I worked on</li>
             <li>Project 2: Another amazing project</li>
+            <li>Project 3: Another another amazing project</li>
           </ul>
         </section>
       </main>
